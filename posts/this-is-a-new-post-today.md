@@ -6,7 +6,7 @@ summary: Some text
 tags:
   - post
 ---
-## Testing
+## `Testing`
 
 `<button>This is a button</button>`
 
